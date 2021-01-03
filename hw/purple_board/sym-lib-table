@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ARTEMIS_MODULE)(type Legacy)(uri C:/git_projects/purple_board/hw/lib/ARTEMIS_MODULE.lib)(options "")(descr ""))
+  (lib (name SPH0641LM4H-1)(type Legacy)(uri C:/git_projects/purple_board/hw/lib/SPH0641LM4H-1.lib)(options "")(descr ""))
+)
